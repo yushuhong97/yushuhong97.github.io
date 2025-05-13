@@ -1,0 +1,50 @@
+p{
+    color: rgb(0, 0, 0);
+}
+
+
+.conan{
+    background-color: blueviolet;
+}
+
+a.link{
+    padding: 3px;;
+    margin: 0px 0px 0px 5px;
+    border-radius: 5px;
+    color:rgb(78, 31, 79);
+}
+
+
+a.link:hover {
+    background-color: rgb(78, 31, 79);
+    color: white;
+    margin: 0px 0px 0px 5px;
+    border-radius: 5px;
+}
+
+div.divshu{
+    background-color: rgb(253, 247, 255);
+    padding: 25px;
+    border-radius: 5px;
+    border: 2px solid rgb(78, 31, 79);
+    width: 95%;
+}
+
+h4.small4{
+    font-size: 20px;
+    color:  rgb(78, 31, 79);;
+}
+
+.shucrop{
+    height: 300px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 5px;
+}
+
+.jeffcallmebg{
+    background-image: url(assets/img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
