@@ -43,10 +43,11 @@ h4.small4{
     border-radius: 5px;
 }
 
-.jeffcallmebg{
-    background-image: url(assets/img/bg.jpg);
+.yushubg{
+    background-image: url("../assets/img/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
 }
 
 tr:nth-child(even) {
@@ -55,4 +56,16 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background-color: rgb(246, 246, 246);
+}
+
+.yushuserif{
+    font-family: "Noto Serif TC", serif;
+}
+
+.yushuwhite{
+    color: white;
+}
+
+.back{
+    color: white; 
 }
