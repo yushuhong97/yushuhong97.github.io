@@ -69,3 +69,14 @@ tr:nth-child(odd) {
 .back{
     color: white; 
 }
+
+.textpurple{
+    color: rgb(78, 31, 79);
+}
+
+.yushuhover:hover{
+    background-color: rgb(78, 31, 79);
+    color: white;
+    border-radius: 5px;
+}
+
